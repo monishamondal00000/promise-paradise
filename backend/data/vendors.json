@@ -1,0 +1,1226 @@
+﻿[
+    {
+        "id":  "v-1",
+        "name":  "Royal Frames Photography",
+        "category":  "Photography",
+        "priceRange":  "₹80,000 - ₹3,00,000",
+        "rating":  4.9,
+        "description":  "Award-winning wedding photographers with 10+ years experience in destination weddings.",
+        "phone":  "+91 98765 43210",
+        "email":  "hello@royalframes.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Candid photography",
+                            "Pre-wedding shoots",
+                            "Drone shots",
+                            "Album design"
+                        ]
+    },
+    {
+        "id":  "v-2",
+        "name":  "Blooming Affairs",
+        "category":  "Decoration",
+        "priceRange":  "₹2,00,000 - ₹15,00,000",
+        "rating":  4.8,
+        "description":  "Luxury floral designers creating breathtaking mandaps, stages, and venue transformations.",
+        "phone":  "+91 99887 66554",
+        "email":  "info@bloomingaffairs.com",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Mandap design",
+                            "Floral walls",
+                            "Theme decor",
+                            "Lighting design"
+                        ]
+    },
+    {
+        "id":  "v-3",
+        "name":  "Spice Route Catering",
+        "category":  "Catering",
+        "priceRange":  "₹1,500 - ₹4,000 per plate",
+        "rating":  4.7,
+        "description":  "Multi-cuisine catering with live counters, molecular gastronomy, and traditional feasts.",
+        "phone":  "+91 87654 32109",
+        "email":  "events@spiceroute.co.in",
+        "city":  "Jaipur",
+        "specialties":  [
+                            "Multi-cuisine",
+                            "Live counters",
+                            "Theme food stalls",
+                            "Custom menus"
+                        ]
+    },
+    {
+        "id":  "v-4",
+        "name":  "Rhythm Divine Entertainment",
+        "category":  "Entertainment",
+        "priceRange":  "₹1,50,000 - ₹10,00,000",
+        "rating":  4.6,
+        "description":  "Complete entertainment solutions from DJ to live bands, choreography to fireworks.",
+        "phone":  "+91 76543 21098",
+        "email":  "bookings@rhythmdivine.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "DJ \u0026 Sound",
+                            "Live bands",
+                            "Choreography",
+                            "Fireworks \u0026 Pyro"
+                        ]
+    },
+    {
+        "id":  "v-5",
+        "name":  "Elegance Bridal Studio",
+        "category":  "Bridal Makeup",
+        "priceRange":  "₹50,000 - ₹2,50,000",
+        "rating":  4.9,
+        "description":  "Celebrity makeup artists specializing in airbrush, HD makeup, and bridal styling.",
+        "phone":  "+91 65432 10987",
+        "email":  "appointments@elegancebridal.in",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Airbrush makeup",
+                            "Bridal styling",
+                            "Family packages",
+                            "Trial sessions"
+                        ]
+    },
+    {
+        "id":  "v-6",
+        "name":  "Dreamweave Films",
+        "category":  "Videography",
+        "priceRange":  "₹1,00,000 - ₹5,00,000",
+        "rating":  4.8,
+        "description":  "Cinematic wedding films with same-day edits, drone footage, and storytelling approach.",
+        "phone":  "+91 54321 09876",
+        "email":  "films@dreamweave.in",
+        "city":  "Bangalore",
+        "specialties":  [
+                            "Cinematic films",
+                            "Same-day edits",
+                            "Drone videography",
+                            "Highlight reels"
+                        ]
+    },
+    {
+        "id":  "v-7",
+        "name":  "Anand Pandit Weddings",
+        "category":  "Pandit/Priest",
+        "priceRange":  "₹25,000 - ₹75,000",
+        "rating":  4.7,
+        "description":  "Experienced Vedic priests performing all Hindu ceremonies with proper rituals and explanations.",
+        "phone":  "+91 43210 98765",
+        "email":  "panditanand@gmail.com",
+        "city":  "Varanasi",
+        "specialties":  [
+                            "Hindu ceremonies",
+                            "Multi-lingual",
+                            "Compact puja",
+                            "Traditional rituals"
+                        ]
+    },
+    {
+        "id":  "v-8",
+        "name":  "Grandeur Events",
+        "category":  "Wedding Planning",
+        "priceRange":  "₹5,00,000 - ₹50,00,000",
+        "rating":  4.9,
+        "description":  "Full-service luxury wedding planners managing 200+ weddings across India and abroad.",
+        "phone":  "+91 32109 87654",
+        "email":  "plan@grandeurevents.com",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Full planning",
+                            "Day coordination",
+                            "Destination weddings",
+                            "Vendor management"
+                        ]
+    },
+    {
+        "id":  "v-10",
+        "name":  "Invitations by Design",
+        "category":  "Invitations",
+        "priceRange":  "₹500 - ₹5,000 per card",
+        "rating":  4.5,
+        "description":  "Luxury wedding invitations from scrolls to digital, including custom illustrations and packaging.",
+        "phone":  "+91 10987 65432",
+        "email":  "cards@invitationsbydesign.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Luxury cards",
+                            "Digital invites",
+                            "Box invitations",
+                            "Custom illustration"
+                        ]
+    },
+    {
+        "id":  "v-11",
+        "name":  "Lens Story Studio",
+        "category":  "Photography",
+        "priceRange":  "₹60,000 - ₹2,50,000",
+        "rating":  4.7,
+        "description":  "Modern photojournalistic approach capturing real emotions, candid moments, and artistic portraits.",
+        "phone":  "+91 98123 45678",
+        "email":  "shoot@lensstory.in",
+        "city":  "Bangalore",
+        "specialties":  [
+                            "Photojournalism",
+                            "Couple portraits",
+                            "Destination shoots",
+                            "Photo booth"
+                        ]
+    },
+    {
+        "id":  "v-12",
+        "name":  "Floral Fantasy Decor",
+        "category":  "Decoration",
+        "priceRange":  "₹1,50,000 - ₹12,00,000",
+        "rating":  4.6,
+        "description":  "Creative theme decorators specializing in contemporary, minimalist, and Indo-Western designs.",
+        "phone":  "+91 97234 56789",
+        "email":  "decor@floralfantasy.co.in",
+        "city":  "Chennai",
+        "specialties":  [
+                            "Theme weddings",
+                            "Minimalist decor",
+                            "Table settings",
+                            "Photo zones"
+                        ]
+    },
+    {
+        "id":  "v-13",
+        "name":  "Flavours of India Catering",
+        "category":  "Catering",
+        "priceRange":  "₹1,200 - ₹3,500 per plate",
+        "rating":  4.8,
+        "description":  "Authentic regional cuisine specialists with Rajasthani thalis, South Indian, and Mughlai expertise.",
+        "phone":  "+91 96345 67890",
+        "email":  "taste@flavoursofindia.in",
+        "city":  "Udaipur",
+        "specialties":  [
+                            "Rajasthani cuisine",
+                            "Live chaat counters",
+                            "Dessert stations",
+                            "Dietary accommodations"
+                        ]
+    },
+    {
+        "id":  "v-14",
+        "name":  "Party Crashers DJ",
+        "category":  "Entertainment",
+        "priceRange":  "₹75,000 - ₹5,00,000",
+        "rating":  4.5,
+        "description":  "High-energy DJ crew with state-of-the-art sound systems, LED walls, and crowd engagement.",
+        "phone":  "+91 95456 78901",
+        "email":  "info@partycrashers.in",
+        "city":  "Goa",
+        "specialties":  [
+                            "Bollywood DJ",
+                            "EDM nights",
+                            "LED setup",
+                            "Sangeet choreography"
+                        ]
+    },
+    {
+        "id":  "v-15",
+        "name":  "Glow Bridal by Priya",
+        "category":  "Bridal Makeup",
+        "priceRange":  "₹40,000 - ₹1,80,000",
+        "rating":  4.7,
+        "description":  "Natural and glamorous bridal looks with expertise in all skin tones and South Indian bridal styles.",
+        "phone":  "+91 94567 89012",
+        "email":  "priya@glowbridal.in",
+        "city":  "Hyderabad",
+        "specialties":  [
+                            "South Indian bridal",
+                            "Natural makeup",
+                            "Engagement looks",
+                            "Mehendi styling"
+                        ]
+    },
+    {
+        "id":  "v-16",
+        "name":  "Visual Stories Films",
+        "category":  "Videography",
+        "priceRange":  "₹80,000 - ₹4,00,000",
+        "rating":  4.6,
+        "description":  "Documentary-style wedding filmmakers with emotional storytelling and international color grading.",
+        "phone":  "+91 93678 90123",
+        "email":  "create@visualstories.in",
+        "city":  "Pune",
+        "specialties":  [
+                            "Documentary style",
+                            "Teaser films",
+                            "Live streaming",
+                            "Multi-camera"
+                        ]
+    },
+    {
+        "id":  "v-17",
+        "name":  "Pandit Ramesh Shastri",
+        "category":  "Pandit/Priest",
+        "priceRange":  "₹20,000 - ₹60,000",
+        "rating":  4.8,
+        "description":  "Fluent in Hindi and English, performs ceremonies with clear explanations for modern couples.",
+        "phone":  "+91 92789 01234",
+        "email":  "panditramesh.shastri@gmail.com",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Bilingual ceremonies",
+                            "Short ceremonies",
+                            "Satyanarayan puja",
+                            "Griha pravesh"
+                        ]
+    },
+    {
+        "id":  "v-18",
+        "name":  "WedPlan India",
+        "category":  "Wedding Planning",
+        "priceRange":  "₹3,00,000 - ₹25,00,000",
+        "rating":  4.7,
+        "description":  "Budget-friendly luxury planners with innovative ideas and reliable vendor networks across India.",
+        "phone":  "+91 91890 12345",
+        "email":  "hello@wedplanindia.com",
+        "city":  "Bangalore",
+        "specialties":  [
+                            "Budget weddings",
+                            "Intimate weddings",
+                            "Celebrity weddings",
+                            "Coordination"
+                        ]
+    },
+    {
+        "id":  "v-20",
+        "name":  "Paper Trails Invitations",
+        "category":  "Invitations",
+        "priceRange":  "₹300 - ₹3,000 per card",
+        "rating":  4.4,
+        "description":  "Eco-friendly wedding invitations with seed papers, recycled materials, and modern calligraphy.",
+        "phone":  "+91 89012 34567",
+        "email":  "hello@papertrails.in",
+        "city":  "Pune",
+        "specialties":  [
+                            "Eco-friendly cards",
+                            "Seed paper",
+                            "Calligraphy",
+                            "WhatsApp invites"
+                        ]
+    },
+    {
+        "id":  "v-21",
+        "name":  "Shutter Dreams Photography",
+        "category":  "Photography",
+        "priceRange":  "₹1,00,000 - ₹4,00,000",
+        "rating":  4.8,
+        "description":  "International award-winning team specializing in editorial fashion-inspired wedding photography.",
+        "phone":  "+91 88123 45670",
+        "email":  "book@shutterdreams.com",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Editorial style",
+                            "Fashion portraits",
+                            "International shoots",
+                            "Album curation"
+                        ]
+    },
+    {
+        "id":  "v-22",
+        "name":  "Enchanted Decor Co.",
+        "category":  "Decoration",
+        "priceRange":  "₹3,00,000 - ₹20,00,000",
+        "rating":  4.9,
+        "description":  "Masters of opulent Indian weddings with expertise in elaborate mandaps, ceiling installations, and grand stages.",
+        "phone":  "+91 87234 56780",
+        "email":  "luxury@enchanteddecor.in",
+        "city":  "Udaipur",
+        "specialties":  [
+                            "Grand mandaps",
+                            "Ceiling installations",
+                            "Royal themes",
+                            "Outdoor transformations"
+                        ]
+    },
+    {
+        "id":  "v-23",
+        "name":  "The Grand Kitchen",
+        "category":  "Catering",
+        "priceRange":  "₹2,000 - ₹5,000 per plate",
+        "rating":  4.9,
+        "description":  "Premium catering with Michelin-trained chefs, offering global cuisine with Indian hospitality.",
+        "phone":  "+91 86345 67890",
+        "email":  "events@thegrandkitchen.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Global cuisine",
+                            "Michelin chefs",
+                            "Molecular gastronomy",
+                            "Wine pairing"
+                        ]
+    },
+    {
+        "id":  "v-24",
+        "name":  "Showtime Entertainment",
+        "category":  "Entertainment",
+        "priceRange":  "₹2,00,000 - ₹15,00,000",
+        "rating":  4.7,
+        "description":  "Celebrity performers, stand-up comics, regional bands, and professional anchors for all events.",
+        "phone":  "+91 85456 78900",
+        "email":  "bookings@showtimeent.co.in",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Celebrity acts",
+                            "Stand-up comedy",
+                            "Regional bands",
+                            "MC/Anchoring"
+                        ]
+    },
+    {
+        "id":  "v-25",
+        "name":  "Bridal Glow by Neha",
+        "category":  "Bridal Makeup",
+        "priceRange":  "₹75,000 - ₹3,00,000",
+        "rating":  4.8,
+        "description":  "Vogue-featured bridal makeup artist with expertise in luxury, subtle, and reception-ready looks.",
+        "phone":  "+91 84567 89010",
+        "email":  "neha@bridalglow.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Luxury bridal",
+                            "Reception looks",
+                            "Family packages",
+                            "Destination bridal"
+                        ]
+    },
+    {
+        "id":  "v-26",
+        "name":  "Cinema Verite Weddings",
+        "category":  "Videography",
+        "priceRange":  "₹1,50,000 - ₹7,00,000",
+        "rating":  4.9,
+        "description":  "Award-winning cinematic wedding films with Hollywood-grade equipment and color science.",
+        "phone":  "+91 83678 90120",
+        "email":  "films@cinemaverite.in",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Cinema-grade",
+                            "Color grading",
+                            "Short films",
+                            "Instagram reels"
+                        ]
+    },
+    {
+        "id":  "v-27",
+        "name":  "Acharya Vishnu Sharma",
+        "category":  "Pandit/Priest",
+        "priceRange":  "₹30,000 - ₹1,00,000",
+        "rating":  4.6,
+        "description":  "Multi-faith ceremonies specialist performing Hindu, Arya Samaj, and fusion rituals pan-India.",
+        "phone":  "+91 82789 01230",
+        "email":  "acharya.vishnu@gmail.com",
+        "city":  "Jaipur",
+        "specialties":  [
+                            "Multi-faith",
+                            "Arya Samaj",
+                            "Destination rituals",
+                            "Traditional Vedic"
+                        ]
+    },
+    {
+        "id":  "v-28",
+        "name":  "Forever After Planning",
+        "category":  "Wedding Planning",
+        "priceRange":  "₹8,00,000 - ₹1,00,00,000",
+        "rating":  4.9,
+        "description":  "Ultra-luxury international wedding planners managing royal weddings and celebrity events globally.",
+        "phone":  "+91 81890 12340",
+        "email":  "concierge@foreverafter.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Royal weddings",
+                            "International",
+                            "Celebrity events",
+                            "Custom experiences"
+                        ]
+    },
+    {
+        "id":  "v-30",
+        "name":  "Luxe Cards Studio",
+        "category":  "Invitations",
+        "priceRange":  "₹1,000 - ₹10,000 per card",
+        "rating":  4.7,
+        "description":  "Bespoke luxury invitations with velvet boxes, gold foiling, acrylic cards, and LED scroll invitations.",
+        "phone":  "+91 79012 34560",
+        "email":  "design@luxecards.in",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Velvet boxes",
+                            "Gold foiling",
+                            "Acrylic cards",
+                            "LED scrolls"
+                        ]
+    },
+    {
+        "id":  "v-31",
+        "name":  "Pixel Perfect Photography",
+        "category":  "Photography",
+        "priceRange":  "₹50,000 - ₹2,00,000",
+        "rating":  4.5,
+        "description":  "Budget-friendly professional wedding photography with modern editing and quick delivery.",
+        "phone":  "+91 78123 45671",
+        "email":  "shoots@pixelperfect.in",
+        "city":  "Pune",
+        "specialties":  [
+                            "Budget packages",
+                            "Quick delivery",
+                            "Modern editing",
+                            "Albums included"
+                        ]
+    },
+    {
+        "id":  "v-32",
+        "name":  "Divine Decor Works",
+        "category":  "Decoration",
+        "priceRange":  "₹1,00,000 - ₹8,00,000",
+        "rating":  4.5,
+        "description":  "Affordable yet elegant decorators specializing in pastel themes, rustic setups, and garden weddings.",
+        "phone":  "+91 77234 56781",
+        "email":  "create@divinedecor.in",
+        "city":  "Goa",
+        "specialties":  [
+                            "Pastel themes",
+                            "Rustic decor",
+                            "Garden weddings",
+                            "Beach setups"
+                        ]
+    },
+    {
+        "id":  "v-33",
+        "name":  "Royal Feast Catering",
+        "category":  "Catering",
+        "priceRange":  "₹800 - ₹2,500 per plate",
+        "rating":  4.6,
+        "description":  "Value-for-money catering with traditional North Indian cuisine, chaats, and impressive presentation.",
+        "phone":  "+91 76345 67891",
+        "email":  "royal.feast@gmail.com",
+        "city":  "Lucknow",
+        "specialties":  [
+                            "Awadhi cuisine",
+                            "Budget menus",
+                            "Chaat stations",
+                            "Traditional thalis"
+                        ]
+    },
+    {
+        "id":  "v-34",
+        "name":  "Wedding Beats DJ",
+        "category":  "Entertainment",
+        "priceRange":  "₹50,000 - ₹3,00,000",
+        "rating":  4.4,
+        "description":  "Young energetic DJ team with latest Bollywood, Punjabi, and international music mashups.",
+        "phone":  "+91 75456 78901",
+        "email":  "djweddingbeats@gmail.com",
+        "city":  "Chandigarh",
+        "specialties":  [
+                            "Punjabi beats",
+                            "Latest mashups",
+                            "LED dance floor",
+                            "Sangeet nights"
+                        ]
+    },
+    {
+        "id":  "v-35",
+        "name":  "Radiance Beauty Lounge",
+        "category":  "Bridal Makeup",
+        "priceRange":  "₹30,000 - ₹1,50,000",
+        "rating":  4.6,
+        "description":  "Team of makeup artists offering multiple bookings for bride, bridesmaids, and family at venues.",
+        "phone":  "+91 74567 89012",
+        "email":  "lounge@radiancebeauty.in",
+        "city":  "Kolkata",
+        "specialties":  [
+                            "Bengali bridal",
+                            "Team bookings",
+                            "On-site salon",
+                            "Draping services"
+                        ]
+    },
+    {
+        "id":  "v-36",
+        "name":  "Reel Life Studios",
+        "category":  "Videography",
+        "priceRange":  "₹60,000 - ₹3,00,000",
+        "rating":  4.5,
+        "description":  "Creative reels-focused videography team delivering trendy social media content alongside traditional films.",
+        "phone":  "+91 73678 90123",
+        "email":  "create@reellife.in",
+        "city":  "Hyderabad",
+        "specialties":  [
+                            "Reels and shorts",
+                            "Trending content",
+                            "Quick turnaround",
+                            "Budget films"
+                        ]
+    },
+    {
+        "id":  "v-37",
+        "name":  "Pandit Suresh Joshi",
+        "category":  "Pandit/Priest",
+        "priceRange":  "₹15,000 - ₹45,000",
+        "rating":  4.5,
+        "description":  "Warm and patient priest known for making ceremonies enjoyable while maintaining traditional sanctity.",
+        "phone":  "+91 72789 01234",
+        "email":  "panditsuresh.j@gmail.com",
+        "city":  "Pune",
+        "specialties":  [
+                            "Maharashtrian rituals",
+                            "Patient approach",
+                            "Short ceremonies",
+                            "Guest-friendly"
+                        ]
+    },
+    {
+        "id":  "v-38",
+        "name":  "Shaadi Squad Plans",
+        "category":  "Wedding Planning",
+        "priceRange":  "₹2,00,000 - ₹15,00,000",
+        "rating":  4.6,
+        "description":  "Millennial-focused wedding planners with quirky ideas, social media management, and modern celebrations.",
+        "phone":  "+91 71890 12345",
+        "email":  "squad@shaadisquad.in",
+        "city":  "Bangalore",
+        "specialties":  [
+                            "Millennial weddings",
+                            "Quirky themes",
+                            "Social media",
+                            "Sustainable weddings"
+                        ]
+    },
+    {
+        "id":  "v-40",
+        "name":  "The Invite Factory",
+        "category":  "Invitations",
+        "priceRange":  "₹200 - ₹2,000 per card",
+        "rating":  4.3,
+        "description":  "Modern digital-first invitation studio with website RSVPs, video invites, and WhatsApp-ready designs.",
+        "phone":  "+91 69012 34567",
+        "email":  "create@invitefactory.in",
+        "city":  "Bangalore",
+        "specialties":  [
+                            "Digital invites",
+                            "Video cards",
+                            "RSVP websites",
+                            "Affordable prints"
+                        ]
+    },
+    {
+        "id":  "v-41",
+        "name":  "Wanderlust Photography",
+        "category":  "Photography",
+        "priceRange":  "₹1,20,000 - ₹5,00,000",
+        "rating":  4.9,
+        "description":  "Destination wedding specialists who travel worldwide, known for ethereal outdoor and golden-hour shots.",
+        "phone":  "+91 68123 45678",
+        "email":  "journey@wanderlustphoto.in",
+        "city":  "Goa",
+        "specialties":  [
+                            "Destination specialist",
+                            "Golden hour",
+                            "Travel shoots",
+                            "Ethereal editing"
+                        ]
+    },
+    {
+        "id":  "v-42",
+        "name":  "Sage \u0026 Bloom Decor",
+        "category":  "Decoration",
+        "priceRange":  "₹2,50,000 - ₹18,00,000",
+        "rating":  4.8,
+        "description":  "Botanical luxury decorators creating lush garden-inspired venues with imported flowers and greenery walls.",
+        "phone":  "+91 67234 56789",
+        "email":  "bloom@sageandbloom.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Imported flowers",
+                            "Greenery walls",
+                            "Botanical luxury",
+                            "Suspended installations"
+                        ]
+    },
+    {
+        "id":  "v-43",
+        "name":  "Saffron Trail Caterers",
+        "category":  "Catering",
+        "priceRange":  "₹1,800 - ₹4,500 per plate",
+        "rating":  4.7,
+        "description":  "Artisanal Indian cuisine with farm-to-table philosophy, organic ingredients, and chef interactions.",
+        "phone":  "+91 66345 67890",
+        "email":  "taste@saffrontrail.in",
+        "city":  "Goa",
+        "specialties":  [
+                            "Farm-to-table",
+                            "Organic menu",
+                            "Chef interactions",
+                            "Coastal cuisine"
+                        ]
+    },
+    {
+        "id":  "v-44",
+        "name":  "Groove Station Entertainment",
+        "category":  "Entertainment",
+        "priceRange":  "₹1,00,000 - ₹8,00,000",
+        "rating":  4.6,
+        "description":  "Full entertainment management with folk artists, fusion bands, themed performances, and after-parties.",
+        "phone":  "+91 65456 78901",
+        "email":  "groove@groovestn.com",
+        "city":  "Jaipur",
+        "specialties":  [
+                            "Folk fusion",
+                            "Themed shows",
+                            "After-party DJ",
+                            "Sound design"
+                        ]
+    },
+    {
+        "id":  "v-45",
+        "name":  "Aura Bridal Artistry",
+        "category":  "Bridal Makeup",
+        "priceRange":  "₹60,000 - ₹2,00,000",
+        "rating":  4.7,
+        "description":  "Minimalist beauty expert creating soft-glam, dewy skin looks for the modern Indian bride.",
+        "phone":  "+91 64567 89012",
+        "email":  "aura.bridal@gmail.com",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Soft glam",
+                            "Dewy finish",
+                            "Minimal bride",
+                            "Hair styling"
+                        ]
+    },
+    {
+        "id":  "v-46",
+        "name":  "The Wedding Filmers",
+        "category":  "Videography",
+        "priceRange":  "₹2,00,000 - ₹10,00,000",
+        "rating":  4.9,
+        "description":  "Indias most sought-after wedding film studio creating viral, emotional, and breathtaking wedding cinematography.",
+        "phone":  "+91 63678 90123",
+        "email":  "hello@theweddingfilmers.com",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Viral videos",
+                            "Emotional storytelling",
+                            "Multi-day coverage",
+                            "International teams"
+                        ]
+    },
+    {
+        "id":  "v-47",
+        "name":  "Fr. Thomas Joseph",
+        "category":  "Pandit/Priest",
+        "priceRange":  "₹20,000 - ₹50,000",
+        "rating":  4.7,
+        "description":  "Catholic priest available for Christian wedding ceremonies, blessings, and inter-faith celebrations.",
+        "phone":  "+91 62789 01234",
+        "email":  "fr.thomas.j@gmail.com",
+        "city":  "Goa",
+        "specialties":  [
+                            "Christian ceremonies",
+                            "Inter-faith",
+                            "Church weddings",
+                            "Beach blessings"
+                        ]
+    },
+    {
+        "id":  "v-48",
+        "name":  "The A-List Weddings",
+        "category":  "Wedding Planning",
+        "priceRange":  "₹10,00,000 - ₹2,00,00,000",
+        "rating":  4.9,
+        "description":  "Indias top celebrity wedding planners handling exclusive, high-security, ultra-luxury celebrations.",
+        "phone":  "+91 61890 12345",
+        "email":  "vip@thealistweddings.com",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Celebrity weddings",
+                            "High security",
+                            "Ultra luxury",
+                            "Global coordination"
+                        ]
+    },
+    {
+        "id":  "v-50",
+        "name":  "Bliss Invitations",
+        "category":  "Invitations",
+        "priceRange":  "₹800 - ₹6,000 per card",
+        "rating":  4.6,
+        "description":  "Artisanal letterpress and hand-painted invitation studio with custom watercolor and illustration work.",
+        "phone":  "+91 59012 34567",
+        "email":  "art@blissinvitations.in",
+        "city":  "Jaipur",
+        "specialties":  [
+                            "Letterpress",
+                            "Watercolor",
+                            "Hand-painted",
+                            "Custom art"
+                        ]
+    },
+    {
+        "id":  "v-51",
+        "name":  "Moments by Mohit",
+        "category":  "Photography",
+        "priceRange":  "₹70,000 - ₹2,50,000",
+        "rating":  4.6,
+        "description":  "Emotional storytelling photographer known for capturing intimate moments and family bonds.",
+        "phone":  "+91 58123 45678",
+        "email":  "mohit@momentsbymohit.in",
+        "city":  "Lucknow",
+        "specialties":  [
+                            "Emotional moments",
+                            "Family bonds",
+                            "Traditional coverage",
+                            "Quick albums"
+                        ]
+    },
+    {
+        "id":  "v-52",
+        "name":  "Marigold Event Decor",
+        "category":  "Decoration",
+        "priceRange":  "₹80,000 - ₹6,00,000",
+        "rating":  4.4,
+        "description":  "Traditional Indian wedding decorators with expertise in temple decor, marigold themes, and South Indian weddings.",
+        "phone":  "+91 57234 56789",
+        "email":  "events@marigolddecor.in",
+        "city":  "Chennai",
+        "specialties":  [
+                            "Temple decor",
+                            "Marigold themes",
+                            "South Indian",
+                            "Traditional setups"
+                        ]
+    },
+    {
+        "id":  "v-53",
+        "name":  "Dawat-e-Khaas Catering",
+        "category":  "Catering",
+        "priceRange":  "₹1,000 - ₹3,000 per plate",
+        "rating":  4.7,
+        "description":  "Mughlai and Hyderabadi cuisine specialists with authentic biryanis, kebabs, and royal desserts.",
+        "phone":  "+91 56345 67890",
+        "email":  "dawat@khaascatering.in",
+        "city":  "Hyderabad",
+        "specialties":  [
+                            "Hyderabadi biryani",
+                            "Mughlai cuisine",
+                            "Royal desserts",
+                            "Dum cooking"
+                        ]
+    },
+    {
+        "id":  "v-54",
+        "name":  "Dhol Baaje Entertainment",
+        "category":  "Entertainment",
+        "priceRange":  "₹30,000 - ₹2,00,000",
+        "rating":  4.5,
+        "description":  "Traditional baraat entertainment with dhol players, brass bands, ghodi, and fireworks coordination.",
+        "phone":  "+91 55456 78901",
+        "email":  "dhol@dholbaaje.in",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Baraat dhol",
+                            "Brass band",
+                            "Ghodi arrangement",
+                            "Fireworks"
+                        ]
+    },
+    {
+        "id":  "v-55",
+        "name":  "Lakme Bridal Services",
+        "category":  "Bridal Makeup",
+        "priceRange":  "₹45,000 - ₹1,75,000",
+        "rating":  4.6,
+        "description":  "Premium salon chain offering professional bridal packages with pre-wedding skincare and styling.",
+        "phone":  "+91 54567 89012",
+        "email":  "bridal@lakme.in",
+        "city":  "Pan India",
+        "specialties":  [
+                            "Pre-bridal care",
+                            "Salon packages",
+                            "Skincare regime",
+                            "Professional team"
+                        ]
+    },
+    {
+        "id":  "v-56",
+        "name":  "Iris Wedding Films",
+        "category":  "Videography",
+        "priceRange":  "₹90,000 - ₹3,50,000",
+        "rating":  4.7,
+        "description":  "Contemporary wedding filmmakers with artistic color palettes, slow-motion expertise, and creative transitions.",
+        "phone":  "+91 53678 90123",
+        "email":  "create@iriswedfilms.in",
+        "city":  "Kolkata",
+        "specialties":  [
+                            "Artistic films",
+                            "Color palettes",
+                            "Slow motion",
+                            "Creative edits"
+                        ]
+    },
+    {
+        "id":  "v-57",
+        "name":  "Qazi Mohammad Irfan",
+        "category":  "Pandit/Priest",
+        "priceRange":  "₹15,000 - ₹40,000",
+        "rating":  4.6,
+        "description":  "Islamic wedding officiant performing Nikah ceremonies with proper documentation and traditions.",
+        "phone":  "+91 52789 01234",
+        "email":  "qazi.irfan@gmail.com",
+        "city":  "Lucknow",
+        "specialties":  [
+                            "Nikah ceremony",
+                            "Documentation",
+                            "Mehr guidance",
+                            "Traditional rituals"
+                        ]
+    },
+    {
+        "id":  "v-58",
+        "name":  "Knot \u0026 Beyond",
+        "category":  "Wedding Planning",
+        "priceRange":  "₹1,50,000 - ₹10,00,000",
+        "rating":  4.5,
+        "description":  "Young dynamic team offering fresh perspectives, Pinterest-worthy setups, and stress-free coordination.",
+        "phone":  "+91 51890 12345",
+        "email":  "plan@knotandbeyond.in",
+        "city":  "Goa",
+        "specialties":  [
+                            "Beach weddings",
+                            "Pinterest setups",
+                            "Young couples",
+                            "Budget luxury"
+                        ]
+    },
+    {
+        "id":  "v-60",
+        "name":  "Couture Invites",
+        "category":  "Invitations",
+        "priceRange":  "₹2,000 - ₹15,000 per card",
+        "rating":  4.8,
+        "description":  "High-fashion invitation house creating couture boxes with fabrics, crystals, and designer packaging.",
+        "phone":  "+91 49012 34567",
+        "email":  "luxury@coutureinvites.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Couture boxes",
+                            "Crystal work",
+                            "Fabric invites",
+                            "Designer packaging"
+                        ]
+    },
+    {
+        "id":  "v-61",
+        "name":  "Golden Click Studios",
+        "category":  "Photography",
+        "priceRange":  "₹40,000 - ₹1,50,000",
+        "rating":  4.4,
+        "description":  "Reliable and professional photography team offering complete coverage at competitive prices.",
+        "phone":  "+91 48123 45678",
+        "email":  "info@goldenclick.in",
+        "city":  "Ahmedabad",
+        "specialties":  [
+                            "Complete coverage",
+                            "Competitive pricing",
+                            "Traditional + candid",
+                            "Family portraits"
+                        ]
+    },
+    {
+        "id":  "v-62",
+        "name":  "Celestial Decor Creations",
+        "category":  "Decoration",
+        "priceRange":  "₹4,00,000 - ₹25,00,000",
+        "rating":  4.9,
+        "description":  "Ultra-luxury international decorators creating immersive themed worlds with projection mapping and architecture.",
+        "phone":  "+91 47234 56789",
+        "email":  "create@celestialdecor.in",
+        "city":  "Delhi",
+        "specialties":  [
+                            "Projection mapping",
+                            "Immersive themes",
+                            "Structural decor",
+                            "International imports"
+                        ]
+    },
+    {
+        "id":  "v-63",
+        "name":  "TasteZone Catering",
+        "category":  "Catering",
+        "priceRange":  "₹1,500 - ₹3,800 per plate",
+        "rating":  4.5,
+        "description":  "Multi-regional specialists with separate South Indian, North Indian, Chinese, and Continental counters.",
+        "phone":  "+91 46345 67890",
+        "email":  "events@tastezone.in",
+        "city":  "Bangalore",
+        "specialties":  [
+                            "Multi-regional",
+                            "Separate counters",
+                            "Diet options",
+                            "Ice cream bars"
+                        ]
+    },
+    {
+        "id":  "v-64",
+        "name":  "Star Night Events",
+        "category":  "Entertainment",
+        "priceRange":  "₹3,00,000 - ₹20,00,000",
+        "rating":  4.8,
+        "description":  "Premium entertainment with Bollywood celebrity performers, international DJs, and production design.",
+        "phone":  "+91 45456 78901",
+        "email":  "vip@starnightevents.com",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Celebrity performers",
+                            "International DJs",
+                            "Stage production",
+                            "Light shows"
+                        ]
+    },
+    {
+        "id":  "v-65",
+        "name":  "The Bridal Canvas",
+        "category":  "Bridal Makeup",
+        "priceRange":  "₹1,00,000 - ₹4,00,000",
+        "rating":  4.9,
+        "description":  "Internationally trained artist creating magazine-worthy bridal looks with premium imported products.",
+        "phone":  "+91 44567 89012",
+        "email":  "art@thebridalcanvas.in",
+        "city":  "Delhi",
+        "specialties":  [
+                            "International style",
+                            "Premium products",
+                            "Magazine looks",
+                            "Personal styling"
+                        ]
+    },
+    {
+        "id":  "v-66",
+        "name":  "Knotty Films",
+        "category":  "Videography",
+        "priceRange":  "₹1,20,000 - ₹6,00,000",
+        "rating":  4.8,
+        "description":  "Fun, quirky wedding filmmakers known for entertaining save-the-dates and viral wedding videos.",
+        "phone":  "+91 43678 90123",
+        "email":  "fun@knottyfilms.in",
+        "city":  "Goa",
+        "specialties":  [
+                            "Quirky films",
+                            "Save-the-dates",
+                            "Viral content",
+                            "Fun approach"
+                        ]
+    },
+    {
+        "id":  "v-67",
+        "name":  "Granthi Singh Amarjeet",
+        "category":  "Pandit/Priest",
+        "priceRange":  "₹20,000 - ₹55,000",
+        "rating":  4.7,
+        "description":  "Sikh Granthi performing Anand Karaj ceremonies at Gurudwaras and wedding venues with proper traditions.",
+        "phone":  "+91 42789 01234",
+        "email":  "granthi.amarjeet@gmail.com",
+        "city":  "Amritsar",
+        "specialties":  [
+                            "Anand Karaj",
+                            "Sikh traditions",
+                            "Kirtan",
+                            "Venue ceremonies"
+                        ]
+    },
+    {
+        "id":  "v-68",
+        "name":  "EventHive Planning",
+        "category":  "Wedding Planning",
+        "priceRange":  "₹4,00,000 - ₹30,00,000",
+        "rating":  4.7,
+        "description":  "Tech-savvy planners using project management tools, virtual planning sessions, and live guest tracking.",
+        "phone":  "+91 41890 12345",
+        "email":  "hive@eventhive.in",
+        "city":  "Hyderabad",
+        "specialties":  [
+                            "Tech-driven",
+                            "Virtual planning",
+                            "Guest management",
+                            "Data analytics"
+                        ]
+    },
+    {
+        "id":  "v-70",
+        "name":  "Royal Stationery House",
+        "category":  "Invitations",
+        "priceRange":  "₹1,500 - ₹8,000 per card",
+        "rating":  4.7,
+        "description":  "Heritage-style invitation printers specializing in Rajasthani miniature art, gold leaf, and handmade paper.",
+        "phone":  "+91 39012 34567",
+        "email":  "heritage@royalstationery.in",
+        "city":  "Jaipur",
+        "specialties":  [
+                            "Miniature art",
+                            "Gold leaf",
+                            "Handmade paper",
+                            "Heritage style"
+                        ]
+    },
+    {
+        "id":  "v-71",
+        "name":  "Frame \u0026 Focus Studios",
+        "category":  "Photography",
+        "priceRange":  "₹90,000 - ₹3,50,000",
+        "rating":  4.7,
+        "description":  "Detail-oriented team capturing fashion-forward couples with cinematic lighting and creative compositions.",
+        "phone":  "+91 38123 45678",
+        "email":  "studio@framefocus.in",
+        "city":  "Goa",
+        "specialties":  [
+                            "Fashion-forward",
+                            "Cinematic lighting",
+                            "Detail shots",
+                            "Creative angles"
+                        ]
+    },
+    {
+        "id":  "v-72",
+        "name":  "Vrindavan Decorators",
+        "category":  "Decoration",
+        "priceRange":  "₹50,000 - ₹4,00,000",
+        "rating":  4.3,
+        "description":  "Traditional and affordable decorators for Hindu ceremonies, havans, and temple-style wedding mandaps.",
+        "phone":  "+91 37234 56789",
+        "email":  "vrindavan.decor@gmail.com",
+        "city":  "Varanasi",
+        "specialties":  [
+                            "Temple mandaps",
+                            "Havan setups",
+                            "Traditional Hindu",
+                            "Affordable options"
+                        ]
+    },
+    {
+        "id":  "v-73",
+        "name":  "Chettinad Kitchen Catering",
+        "category":  "Catering",
+        "priceRange":  "₹1,200 - ₹3,200 per plate",
+        "rating":  4.6,
+        "description":  "Authentic South Indian catering with Chettinad, Kerala, and Tamil Brahmin cuisine specialists.",
+        "phone":  "+91 36345 67890",
+        "email":  "feast@chettinadkitchen.in",
+        "city":  "Chennai",
+        "specialties":  [
+                            "Chettinad cuisine",
+                            "Kerala sadya",
+                            "Tamil Brahmin",
+                            "Banana leaf meals"
+                        ]
+    },
+    {
+        "id":  "v-74",
+        "name":  "Fusion Beats DJ Crew",
+        "category":  "Entertainment",
+        "priceRange":  "₹60,000 - ₹4,00,000",
+        "rating":  4.5,
+        "description":  "Multi-genre DJ collective playing everything from classical fusion to EDM, with professional MCs.",
+        "phone":  "+91 35456 78901",
+        "email":  "beats@fusionbeats.in",
+        "city":  "Kolkata",
+        "specialties":  [
+                            "Multi-genre",
+                            "Classical fusion",
+                            "Professional MC",
+                            "Bengal nights"
+                        ]
+    },
+    {
+        "id":  "v-75",
+        "name":  "Brush \u0026 Blush Studio",
+        "category":  "Bridal Makeup",
+        "priceRange":  "₹35,000 - ₹1,20,000",
+        "rating":  4.5,
+        "description":  "Affordable bridal makeup team offering South Indian, North Indian, and Christian bridal looks.",
+        "phone":  "+91 34567 89012",
+        "email":  "studio@brushblush.in",
+        "city":  "Kochi",
+        "specialties":  [
+                            "Kerala bridal",
+                            "Christian bridal",
+                            "Affordable",
+                            "Set mundu draping"
+                        ]
+    },
+    {
+        "id":  "v-76",
+        "name":  "Beyond The Frame Videos",
+        "category":  "Videography",
+        "priceRange":  "₹70,000 - ₹2,50,000",
+        "rating":  4.4,
+        "description":  "Budget-friendly videographers with modern editing, social media cuts, and same-day deliveries.",
+        "phone":  "+91 33678 90123",
+        "email":  "video@beyondtheframe.in",
+        "city":  "Jaipur",
+        "specialties":  [
+                            "Budget-friendly",
+                            "Social media cuts",
+                            "Same-day delivery",
+                            "Modern editing"
+                        ]
+    },
+    {
+        "id":  "v-77",
+        "name":  "Rev. David Abraham",
+        "category":  "Pandit/Priest",
+        "priceRange":  "₹15,000 - ₹35,000",
+        "rating":  4.5,
+        "description":  "Protestant minister performing church and outdoor Christian ceremonies with personalized vows assistance.",
+        "phone":  "+91 32789 01234",
+        "email":  "rev.david.a@gmail.com",
+        "city":  "Bangalore",
+        "specialties":  [
+                            "Protestant ceremonies",
+                            "Personalized vows",
+                            "Outdoor services",
+                            "Pre-marital counseling"
+                        ]
+    },
+    {
+        "id":  "v-78",
+        "name":  "MangalMurti Events",
+        "category":  "Wedding Planning",
+        "priceRange":  "₹1,00,000 - ₹8,00,000",
+        "rating":  4.4,
+        "description":  "Traditional Indian wedding specialists managing all rituals, logistics, and vendor coordination seamlessly.",
+        "phone":  "+91 31890 12345",
+        "email":  "events@mangalmurti.in",
+        "city":  "Nagpur",
+        "specialties":  [
+                            "Traditional Indian",
+                            "Ritual management",
+                            "Family coordination",
+                            "Regional weddings"
+                        ]
+    },
+    {
+        "id":  "v-80",
+        "name":  "Papercraft Invitations",
+        "category":  "Invitations",
+        "priceRange":  "₹400 - ₹4,000 per card",
+        "rating":  4.5,
+        "description":  "Creative paper engineers making pop-up, origami, and interactive wedding invitations that wow guests.",
+        "phone":  "+91 29012 34567",
+        "email":  "create@papercraft.in",
+        "city":  "Mumbai",
+        "specialties":  [
+                            "Pop-up cards",
+                            "Origami invites",
+                            "Interactive design",
+                            "3D elements"
+                        ]
+    }
+]

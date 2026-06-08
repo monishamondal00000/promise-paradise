@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Promise Paradise — Where Forever Begins</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            ivory: '#FAF7F2',
+            gold: '#C9A96E',
+            dark: '#2C2C2C',
+            blush: '#E8D5C4',
+          },
+          fontFamily: {
+            serif: ['Playfair Display', 'serif'],
+            sans: ['Outfit', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateX(-20px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+    @keyframes pulseSlow {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(201, 169, 110, 0.4); }
+      50% { box-shadow: 0 0 0 8px rgba(201, 169, 110, 0); }
+    }
+    .animate-fadeInUp { animation: fadeInUp 0.7s ease-out forwards; }
+    .animate-slideIn { animation: slideIn 0.5s ease-out forwards; }
+    .animate-pulse-slow { animation: pulseSlow 2s ease-in-out infinite; }
+  </style>
+  <script type="module" crossorigin src="/assets/index-hpRd9cCk.js"></script>
+</head>
+<body class="bg-ivory font-sans">
+  <div id="root"></div>
+</body>
+</html>

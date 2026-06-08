@@ -1,0 +1,122 @@
+[
+  {
+    "id": "PP1780236070486",
+    "bookingId": "PP7QGRFGHM96",
+    "userId": "c1977af9-544a-4620-bc2d-73ba65ad19ce",
+    "amount": 55224,
+    "method": "netbanking",
+    "paymentType": "partial",
+    "status": "paid",
+    "paidAt": "2026-05-31T14:01:10.486Z"
+  },
+  {
+    "id": "PP1780236215148",
+    "bookingId": "PP9JZY7NDBLV",
+    "userId": "c1977af9-544a-4620-bc2d-73ba65ad19ce",
+    "amount": 35400,
+    "method": "upi",
+    "paymentType": "partial",
+    "status": "paid",
+    "paidAt": "2026-05-31T14:03:35.148Z"
+  },
+  {
+    "id": "PP1780242571706",
+    "bookingId": "PPF693GYJ7YZ",
+    "userId": "c1977af9-544a-4620-bc2d-73ba65ad19ce",
+    "amount": 148680,
+    "method": "upi",
+    "paymentType": "partial",
+    "status": "paid",
+    "paidAt": "2026-05-31T15:49:31.706Z"
+  },
+  {
+    "id": "PP1780429635707",
+    "bookingId": "PPLTPSUT2F3T",
+    "userId": "77b32ecd-d284-4ae3-b183-b1c5c78b86ea",
+    "amount": 752250,
+    "method": "netbanking",
+    "paymentType": "partial",
+    "status": "paid",
+    "paidAt": "2026-06-02T19:47:15.707Z"
+  },
+  {
+    "id": "PP1780429979099",
+    "bookingId": "PPLTPSUT2F3T",
+    "userId": "77b32ecd-d284-4ae3-b183-b1c5c78b86ea",
+    "amount": 1755250,
+    "method": "upi",
+    "paymentType": "remaining",
+    "status": "paid",
+    "paidAt": "2026-06-02T19:52:59.099Z"
+  },
+  {
+    "id": "PP1780430266089",
+    "bookingId": "PP4YZVJPMRVJ",
+    "userId": "77b32ecd-d284-4ae3-b183-b1c5c78b86ea",
+    "amount": 377600,
+    "method": "netbanking",
+    "paymentType": "full",
+    "status": "paid",
+    "paidAt": "2026-06-02T19:57:46.089Z"
+  },
+  {
+    "id": "PP1780430421259",
+    "bookingId": "PPFLTYAVVRRC",
+    "userId": "77b32ecd-d284-4ae3-b183-b1c5c78b86ea",
+    "amount": 1274400,
+    "method": "upi",
+    "paymentType": "full",
+    "status": "paid",
+    "paidAt": "2026-06-02T20:00:21.259Z"
+  },
+  {
+    "id": "PP1780724417456",
+    "bookingId": "PPGFFNV6XF3J",
+    "userId": "dbc539ab-3c93-472c-8580-8d4f5b9a7340",
+    "amount": 660800,
+    "method": "upi",
+    "paymentType": "full",
+    "status": "paid",
+    "paidAt": "2026-06-06T05:40:17.456Z"
+  },
+  {
+    "id": "PP1780724847483",
+    "bookingId": "PPW9SG29B976",
+    "userId": "dbc539ab-3c93-472c-8580-8d4f5b9a7340",
+    "amount": 265500,
+    "method": "upi",
+    "paymentType": "partial",
+    "status": "paid",
+    "paidAt": "2026-06-06T05:47:27.483Z"
+  },
+  {
+    "id": "PP1780727863747",
+    "bookingId": "PP6LEEV2FS8Q",
+    "userId": "4ef32cac-27a9-4ae7-b631-f9be46dc28e8",
+    "amount": 1696368,
+    "method": "upi",
+    "paymentType": "partial",
+    "status": "paid",
+    "paidAt": "2026-06-06T06:37:43.747Z"
+  },
+  {
+    "id": "PP1780728172539",
+    "bookingId": "PPL2A9WPJMTC",
+    "userId": "4ef32cac-27a9-4ae7-b631-f9be46dc28e8",
+    "amount": 885000,
+    "method": "upi",
+    "paymentType": "full",
+    "status": "paid",
+    "paidAt": "2026-06-06T06:42:52.539Z"
+  },
+  {
+    "id": "PP1780729187714",
+    "bookingId": "PPURPDXXLCKA",
+    "userId": "a6b5337e-fcc5-4cf3-a5b4-49cce4245dca",
+    "amount": 1253160,
+    "method": "upi",
+    "paymentType": "partial",
+    "status": "paid",
+    "paidAt": "2026-06-06T06:59:47.714Z"
+  }
+]

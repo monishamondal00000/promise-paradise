@@ -1,0 +1,758 @@
+[
+  {
+    "id": "PPLTPSUT2F3T",
+    "userId": "77b32ecd-d284-4ae3-b183-b1c5c78b86ea",
+    "type": "package",
+    "status": "confirmed",
+    "packageId": "pkg-1",
+    "destinationId": "dest-1",
+    "subPlace": null,
+    "venue": "Taj Lake Palace",
+    "dates": {
+      "wedding": "2026-07-11"
+    },
+    "guestCount": 100,
+    "accommodation": "hotel block",
+    "style": null,
+    "groomName": "dd",
+    "brideName": "xdxd",
+    "weddingType": "",
+    "transportRequired": false,
+    "personalVendors": [],
+    "notes": "",
+    "selectedVendors": [],
+    "timeline": [
+      {
+        "day": 1,
+        "events": [
+          {
+            "name": "Haldi & Mehendi",
+            "time": "10:00",
+            "venue": ""
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "events": [
+          {
+            "name": "Sangeet Night",
+            "time": "19:00",
+            "venue": ""
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "events": [
+          {
+            "name": "Wedding Ceremony",
+            "time": "10:00",
+            "venue": ""
+          },
+          {
+            "name": "Grand Reception",
+            "time": "19:00",
+            "venue": ""
+          }
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "lomadi",
+        "phone": "084319 96751",
+        "email": "soumyadiproy1611@gmail.com"
+      }
+    ],
+    "totalAmount": 2507500,
+    "breakdown": {
+      "base": 2125000,
+      "gst": 382500,
+      "total": 2507500
+    },
+    "payment": {
+      "amount": 2507500,
+      "paidAmount": 2507500,
+      "status": "paid",
+      "transactionId": "PP1780429979099",
+      "paidAt": "2026-06-02T19:52:59.099Z",
+      "method": "upi",
+      "paymentType": "remaining",
+      "breakdown": {
+        "base": 2125000,
+        "gst": 382500,
+        "total": 2507500
+      },
+      "history": [
+        {
+          "transactionId": "PP1780429635707",
+          "amount": 752250,
+          "method": "netbanking",
+          "paymentType": "partial",
+          "paidAt": "2026-06-02T19:47:15.707Z"
+        },
+        {
+          "transactionId": "PP1780429979099",
+          "amount": 1755250,
+          "method": "upi",
+          "paymentType": "remaining",
+          "paidAt": "2026-06-02T19:52:59.099Z"
+        }
+      ]
+    },
+    "editableAfterBooking": [
+      "guests",
+      "timeline",
+      "contactInfo"
+    ],
+    "createdAt": "2026-06-02T19:46:50.561Z"
+  },
+  {
+    "id": "PP4YZVJPMRVJ",
+    "userId": "77b32ecd-d284-4ae3-b183-b1c5c78b86ea",
+    "type": "custom",
+    "status": "confirmed",
+    "packageId": null,
+    "destinationId": "dest-47",
+    "subPlace": null,
+    "venue": "Burgenstock Resort",
+    "dates": {
+      "wedding": "2026-06-27"
+    },
+    "guestCount": 100,
+    "accommodation": "mixed",
+    "style": null,
+    "groomName": "dfsf",
+    "brideName": "sddfsd",
+    "weddingType": "Hindu Vedic",
+    "transportRequired": true,
+    "personalVendors": [],
+    "notes": "",
+    "selectedVendors": [
+      {
+        "id": "v-41",
+        "name": "Wanderlust Photography",
+        "category": "Photography",
+        "cost": 120000
+      }
+    ],
+    "timeline": [
+      {
+        "day": 1,
+        "events": [
+          {
+            "name": "Wedding Ceremony & Reception",
+            "time": "10:00",
+            "venue": ""
+          }
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "sdfdsf",
+        "email": "soumyadiproy1611@gmail.com",
+        "phone": "1234567890"
+      }
+    ],
+    "totalAmount": 377600,
+    "breakdown": {
+      "venue": 200000,
+      "vendors": 120000,
+      "gst": 57600,
+      "total": 377600
+    },
+    "payment": {
+      "amount": 377600,
+      "paidAmount": 377600,
+      "status": "paid",
+      "transactionId": "PP1780430266089",
+      "paidAt": "2026-06-02T19:57:46.089Z",
+      "method": "netbanking",
+      "paymentType": "full",
+      "breakdown": {
+        "venue": 200000,
+        "vendors": 120000,
+        "gst": 57600,
+        "total": 377600
+      },
+      "history": [
+        {
+          "transactionId": "PP1780430266089",
+          "amount": 377600,
+          "method": "netbanking",
+          "paymentType": "full",
+          "paidAt": "2026-06-02T19:57:46.089Z"
+        }
+      ]
+    },
+    "editableAfterBooking": [
+      "guests",
+      "timeline",
+      "contactInfo"
+    ],
+    "createdAt": "2026-06-02T19:57:33.031Z"
+  },
+  {
+    "id": "PPFLTYAVVRRC",
+    "userId": "77b32ecd-d284-4ae3-b183-b1c5c78b86ea",
+    "type": "package",
+    "status": "confirmed",
+    "packageId": "pkg-2",
+    "destinationId": "dest-4",
+    "subPlace": null,
+    "venue": "Sereno Beach Club, Morjim",
+    "dates": {
+      "wedding": "2026-07-05"
+    },
+    "guestCount": 100,
+    "accommodation": "hotel block",
+    "style": null,
+    "groomName": "aa",
+    "brideName": "aa",
+    "weddingType": "",
+    "transportRequired": false,
+    "personalVendors": [],
+    "notes": "",
+    "selectedVendors": [],
+    "timeline": [
+      {
+        "day": 1,
+        "events": [
+          {
+            "name": "Mehendi & Sangeet",
+            "time": "16:00",
+            "venue": ""
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "events": [
+          {
+            "name": "Wedding Ceremony",
+            "time": "10:00",
+            "venue": ""
+          },
+          {
+            "name": "Reception Dinner",
+            "time": "19:00",
+            "venue": ""
+          }
+        ]
+      }
+    ],
+    "guests": [],
+    "totalAmount": 1274400,
+    "breakdown": {
+      "base": 1080000,
+      "gst": 194400,
+      "total": 1274400
+    },
+    "payment": {
+      "amount": 1274400,
+      "paidAmount": 1274400,
+      "status": "paid",
+      "transactionId": "PP1780430421259",
+      "paidAt": "2026-06-02T20:00:21.259Z",
+      "method": "upi",
+      "paymentType": "full",
+      "breakdown": {
+        "base": 1080000,
+        "gst": 194400,
+        "total": 1274400
+      },
+      "history": [
+        {
+          "transactionId": "PP1780430421259",
+          "amount": 1274400,
+          "method": "upi",
+          "paymentType": "full",
+          "paidAt": "2026-06-02T20:00:21.259Z"
+        }
+      ]
+    },
+    "editableAfterBooking": [
+      "guests",
+      "timeline",
+      "contactInfo"
+    ],
+    "createdAt": "2026-06-02T20:00:09.372Z"
+  },
+  {
+    "id": "PP6LEEV2FS8Q",
+    "userId": "4ef32cac-27a9-4ae7-b631-f9be46dc28e8",
+    "type": "custom",
+    "status": "pending",
+    "packageId": null,
+    "destinationId": "dest-49",
+    "subPlace": null,
+    "venue": "Hotel U Prince",
+    "dates": {
+      "wedding": "2026-06-30"
+    },
+    "guestCount": 160,
+    "accommodation": "villa",
+    "style": null,
+    "groomName": "Ram Yadav",
+    "brideName": "Priya Raj",
+    "weddingType": "Hindu Vedic",
+    "transportRequired": true,
+    "personalVendors": [
+      {
+        "name": "Ashok Catering",
+        "category": "Catering",
+        "phone": "6745367890",
+        "email": "",
+        "id": "pv-1780727408459"
+      }
+    ],
+    "notes": "",
+    "selectedVendors": [
+      {
+        "id": "v-1",
+        "name": "Royal Frames Photography",
+        "category": "Photography",
+        "cost": 160000
+      },
+      {
+        "id": "v-2",
+        "name": "Blooming Affairs",
+        "category": "Decoration",
+        "cost": 660000
+      },
+      {
+        "id": "v-4",
+        "name": "Rhythm Divine Entertainment",
+        "category": "Entertainment",
+        "cost": 450000
+      },
+      {
+        "id": "v-15",
+        "name": "Glow Bridal by Priya",
+        "category": "Bridal Makeup",
+        "cost": 90000
+      },
+      {
+        "id": "v-16",
+        "name": "Visual Stories Films",
+        "category": "Videography",
+        "cost": 190000
+      },
+      {
+        "id": "v-27",
+        "name": "Acharya Vishnu Sharma",
+        "category": "Pandit/Priest",
+        "cost": 50000
+      },
+      {
+        "id": "v-8",
+        "name": "Grandeur Events",
+        "category": "Wedding Planning",
+        "cost": 2080000
+      },
+      {
+        "id": "v-10",
+        "name": "Invitations by Design",
+        "category": "Invitations",
+        "cost": 440000
+      }
+    ],
+    "timeline": [
+      {
+        "day": 1,
+        "events": [
+          {
+            "name": "Haldi Ceremony",
+            "time": "10:00",
+            "venue": ""
+          },
+          {
+            "name": "Mehendi Evening",
+            "time": "16:00",
+            "venue": ""
+          },
+          {
+            "name": "",
+            "time": "",
+            "venue": ""
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "events": [
+          {
+            "name": "Sangeet Night",
+            "time": "19:00",
+            "venue": ""
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "events": [
+          {
+            "name": "Wedding Ceremony",
+            "time": "10:00",
+            "venue": ""
+          },
+          {
+            "name": "Grand Reception",
+            "time": "19:00",
+            "venue": ""
+          }
+        ]
+      }
+    ],
+    "guests": [],
+    "totalAmount": 5654560,
+    "breakdown": {
+      "venue": 672000,
+      "vendors": 4120000,
+      "gst": 862560,
+      "total": 5654560
+    },
+    "payment": {
+      "amount": 5654560,
+      "paidAmount": 1696368,
+      "status": "partial",
+      "transactionId": "PP1780727863747",
+      "paidAt": "2026-06-06T06:37:43.747Z",
+      "method": "upi",
+      "paymentType": "partial",
+      "breakdown": {
+        "venue": 672000,
+        "vendors": 4120000,
+        "gst": 862560,
+        "total": 5654560
+      },
+      "history": [
+        {
+          "transactionId": "PP1780727863747",
+          "amount": 1696368,
+          "method": "upi",
+          "paymentType": "partial",
+          "paidAt": "2026-06-06T06:37:43.747Z"
+        }
+      ]
+    },
+    "editableAfterBooking": [
+      "guests",
+      "timeline",
+      "contactInfo"
+    ],
+    "createdAt": "2026-06-06T06:31:14.393Z"
+  },
+  {
+    "id": "PPL2A9WPJMTC",
+    "userId": "4ef32cac-27a9-4ae7-b631-f9be46dc28e8",
+    "type": "package",
+    "status": "confirmed",
+    "packageId": "pkg-6",
+    "destinationId": "dest-9",
+    "subPlace": null,
+    "venue": "The Oberoi Cecil",
+    "dates": {
+      "wedding": "2026-07-31"
+    },
+    "guestCount": 100,
+    "accommodation": "villa",
+    "style": null,
+    "groomName": "Nobita",
+    "brideName": "Sizuka",
+    "weddingType": "Christian",
+    "transportRequired": false,
+    "personalVendors": [],
+    "notes": "",
+    "selectedVendors": [],
+    "timeline": [
+      {
+        "day": 1,
+        "events": [
+          {
+            "name": "Ring Exchange",
+            "time": "16:00",
+            "venue": ""
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "events": [
+          {
+            "name": "Wedding Ceremony",
+            "time": "10:00",
+            "venue": ""
+          },
+          {
+            "name": "Reception Dinner",
+            "time": "19:00",
+            "venue": ""
+          }
+        ]
+      }
+    ],
+    "guests": [],
+    "totalAmount": 885000,
+    "breakdown": {
+      "base": 750000,
+      "gst": 135000,
+      "total": 885000
+    },
+    "payment": {
+      "amount": 885000,
+      "paidAmount": 885000,
+      "status": "paid",
+      "transactionId": "PP1780728172539",
+      "paidAt": "2026-06-06T06:42:52.539Z",
+      "method": "upi",
+      "paymentType": "full",
+      "breakdown": {
+        "base": 750000,
+        "gst": 135000,
+        "total": 885000
+      },
+      "history": [
+        {
+          "transactionId": "PP1780728172539",
+          "amount": 885000,
+          "method": "upi",
+          "paymentType": "full",
+          "paidAt": "2026-06-06T06:42:52.539Z"
+        }
+      ]
+    },
+    "editableAfterBooking": [
+      "guests",
+      "timeline",
+      "contactInfo"
+    ],
+    "createdAt": "2026-06-06T06:42:29.233Z"
+  },
+  {
+    "id": "PPURPDXXLCKA",
+    "userId": "a6b5337e-fcc5-4cf3-a5b4-49cce4245dca",
+    "type": "custom",
+    "status": "pending",
+    "packageId": null,
+    "destinationId": "dest-23",
+    "subPlace": null,
+    "venue": "The Oberoi Amarvilas",
+    "dates": {
+      "wedding": "2026-06-26"
+    },
+    "guestCount": 100,
+    "accommodation": "hotel block",
+    "style": null,
+    "groomName": "raj",
+    "brideName": "rimi",
+    "weddingType": "Hindu Traditional",
+    "transportRequired": false,
+    "personalVendors": [],
+    "notes": "",
+    "selectedVendors": [
+      {
+        "id": "v-1",
+        "name": "Royal Frames Photography",
+        "category": "Photography",
+        "cost": 100000
+      },
+      {
+        "id": "v-22",
+        "name": "Enchanted Decor Co.",
+        "category": "Decoration",
+        "cost": 600000
+      },
+      {
+        "id": "v-23",
+        "name": "The Grand Kitchen",
+        "category": "Catering",
+        "cost": 350000
+      },
+      {
+        "id": "v-64",
+        "name": "Star Night Events",
+        "category": "Entertainment",
+        "cost": 600000
+      },
+      {
+        "id": "v-65",
+        "name": "The Bridal Canvas",
+        "category": "Bridal Makeup",
+        "cost": 140000
+      },
+      {
+        "id": "v-26",
+        "name": "Cinema Verite Weddings",
+        "category": "Videography",
+        "cost": 230000
+      },
+      {
+        "id": "v-17",
+        "name": "Pandit Ramesh Shastri",
+        "category": "Pandit/Priest",
+        "cost": 20000
+      },
+      {
+        "id": "v-8",
+        "name": "Grandeur Events",
+        "category": "Wedding Planning",
+        "cost": 1380000
+      }
+    ],
+    "timeline": [
+      {
+        "day": 1,
+        "events": [
+          {
+            "name": "Mehendi & Sangeet",
+            "time": "10:00",
+            "venue": ""
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "events": [
+          {
+            "name": "Wedding Ceremony",
+            "time": "10:00",
+            "venue": ""
+          },
+          {
+            "name": "Reception Dinner",
+            "time": "19:00",
+            "venue": ""
+          }
+        ]
+      }
+    ],
+    "guests": [],
+    "totalAmount": 4177200,
+    "breakdown": {
+      "venue": 120000,
+      "vendors": 3420000,
+      "gst": 637200,
+      "total": 4177200
+    },
+    "payment": {
+      "amount": 4177200,
+      "paidAmount": 1253160,
+      "status": "partial",
+      "transactionId": "PP1780729187714",
+      "paidAt": "2026-06-06T06:59:47.714Z",
+      "method": "upi",
+      "paymentType": "partial",
+      "breakdown": {
+        "venue": 120000,
+        "vendors": 3420000,
+        "gst": 637200,
+        "total": 4177200
+      },
+      "history": [
+        {
+          "transactionId": "PP1780729187714",
+          "amount": 1253160,
+          "method": "upi",
+          "paymentType": "partial",
+          "paidAt": "2026-06-06T06:59:47.714Z"
+        }
+      ]
+    },
+    "editableAfterBooking": [
+      "guests",
+      "timeline",
+      "contactInfo"
+    ],
+    "createdAt": "2026-06-06T06:59:15.275Z"
+  },
+  {
+    "id": "PP9TLPEVV9G3",
+    "userId": "4ef32cac-27a9-4ae7-b631-f9be46dc28e8",
+    "type": "custom",
+    "status": "pending",
+    "packageId": null,
+    "destinationId": "dest-23",
+    "subPlace": null,
+    "venue": "The Oberoi Amarvilas",
+    "dates": {
+      "wedding": "2026-06-27"
+    },
+    "guestCount": 100,
+    "accommodation": "villa",
+    "style": null,
+    "groomName": "raj",
+    "brideName": "rimi",
+    "weddingType": "Hindu Traditional",
+    "transportRequired": true,
+    "personalVendors": [],
+    "notes": "",
+    "selectedVendors": [
+      {
+        "id": "v-41",
+        "name": "Wanderlust Photography",
+        "category": "Photography",
+        "cost": 170000
+      }
+    ],
+    "timeline": [
+      {
+        "day": 1,
+        "events": [
+          {
+            "name": "Mehendi & Sangeet",
+            "time": "16:00",
+            "venue": ""
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "events": [
+          {
+            "name": "Wedding Ceremony",
+            "time": "10:00",
+            "venue": ""
+          },
+          {
+            "name": "Reception Dinner",
+            "time": "19:00",
+            "venue": ""
+          }
+        ]
+      }
+    ],
+    "guests": [],
+    "totalAmount": 427160,
+    "breakdown": {
+      "venue": 192000,
+      "vendors": 170000,
+      "gst": 65160,
+      "total": 427160
+    },
+    "payment": {
+      "amount": 427160,
+      "paidAmount": 0,
+      "status": "pending",
+      "transactionId": null,
+      "paidAt": null,
+      "method": null,
+      "paymentType": null,
+      "breakdown": {
+        "venue": 192000,
+        "vendors": 170000,
+        "gst": 65160,
+        "total": 427160
+      },
+      "history": []
+    },
+    "editableAfterBooking": [
+      "guests",
+      "timeline",
+      "contactInfo"
+    ],
+    "createdAt": "2026-06-06T07:45:53.767Z"
+  }
+]
